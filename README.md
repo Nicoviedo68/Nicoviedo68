@@ -3,12 +3,28 @@
 
 <p align="center">
   <a href="https://cortechcol.com"><img src="https://img.shields.io/badge/Portafolio-cortechcol.com-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://cortechcol.com/CV_Nicolas_Oviedo/"><img src="https://img.shields.io/badge/CV-ES%20%7C%20EN-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
+  <a href="https://cortechcol.com/CV_Nicolas_Oviedo/"><img src="https://img.shields.io/badge/CV%20web-ES%20%7C%20EN-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nicolas-cortes-oviedo"><img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Cortes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nicolasoviedo@cortechcol.com"><img src="https://img.shields.io/badge/Email-nicolasoviedo%40cortechcol.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 </p>
 
 ---
+
+### Portafolio y CV
+- **Portafolio:** [cortechcol.com](https://cortechcol.com), con mis proyectos y una demo en vivo de cada uno, con datos ficticios.
+- **CV web bilingüe (ES/EN):** [cortechcol.com/CV_Nicolas_Oviedo](https://cortechcol.com/CV_Nicolas_Oviedo/), con versión en PDF para descargar.
+- **Estado de mis plataformas:** [cortechcol.com/monitor](https://cortechcol.com/monitor/)
+
+### Mi servidor
+Todo mi portafolio y mis proyectos corren en **mi propio servidor Linux**, que administro de punta a punta:
+
+- **Docker + Easypanel** para desplegar n8n, Ollama, Open WebUI y bases de datos
+- **Cloudflare Tunnel** con dominio propio y HTTPS, sin exponer puertos
+- **Cloudflare Zero Trust (Access)** para proteger los paneles de administración
+- **Traefik + Nginx** como proxy y enrutamiento por subdominios
+- **IA local con Ollama** junto a modelos en la nube
+- **Monitoreo** de disponibilidad y errores, **backups** y demos aisladas con datos que se reinician solos
+- **Correo con dominio propio** y seguridad con login central, límite de peticiones y credenciales cifradas
 
 ### Qué hago
 Diseño, construyo y opero **automatizaciones con IA** para procesos operativos, comerciales y de atención al cliente, bajo mi marca **Cortech**:
@@ -17,7 +33,6 @@ Diseño, construyo y opero **automatizaciones con IA** para procesos operativos,
 - **Agentes de IA conversacionales** para WhatsApp, Facebook e Instagram
 - **Agentes de voz** con **Retell AI**
 - **CRM y contact center omnicanal** (creador de CRM Arya y OCP Arya)
-- **Infraestructura propia**: servidor con Docker, Easypanel, Cloudflare Tunnel y Zero Trust, monitoreo y backups
 
 ### Proyectos destacados
 Todos tienen **demo en vivo** con datos ficticios en [cortechcol.com](https://cortechcol.com).
@@ -31,7 +46,7 @@ Todos tienen **demo en vivo** con datos ficticios en [cortechcol.com](https://co
 | **PRESTO** *(Frayco)* | WhatsApp, CRM y OCP |
 | **Monitor de estado** | Disponibilidad y alertas en tiempo real de mis plataformas y n8n ([ver](https://cortechcol.com/monitor/)) |
 | [**ARYA**](https://github.com/Nicoviedo68/ARYA) | CRM omnicanal: inbox de WhatsApp, Facebook e Instagram, tareas n8n e integraciones Meta y OpenAI |
-| [**Personal**](https://github.com/Nicoviedo68/Personal) | Mi CV web bilingüe (ES/EN) |
+| [**Personal**](https://github.com/Nicoviedo68/Personal) | Mi CV web bilingüe (ES/EN), publicado en [cortechcol.com/CV_Nicolas_Oviedo](https://cortechcol.com/CV_Nicolas_Oviedo/) |
 
 ### Tecnologías
 <p>
